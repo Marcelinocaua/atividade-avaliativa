@@ -1,0 +1,60 @@
+body {
+    font-family: "Poetsen One", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #CDBDB4;
+}
+
+h1{
+    text-align:center;
+    width: 300px;
+    height: 30px;
+    top: 232px;
+    left: 521px;
+    font-size: 25px;
+    margin-top: 50PX;
+}
+
+img {
+    width: 161px;
+}
+
+button{
+    font-weight: bold;
+    background-color: #94512C;
+    margin-top: 20px;
+    color: #fff;
+    border: none;
+    padding: 13px;
+    border-radius: 10px;
+    
+
+    cursor: pointer;
+    font-family: "Poetsen One", sans-serif;
+    width: 282px;
+}
+
+
+label{
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width:250px;
+
+}
+
+input{
+    padding: 15px;
+    height: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: 1px solid  #bdbbbb;
+    width: 250PX;
+}
+
+
